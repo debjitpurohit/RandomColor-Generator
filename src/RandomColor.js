@@ -66,11 +66,11 @@ const styles = StyleSheet.create({
         // justifyContent:"flex-end"
     },
     Button: {
-        backgroundColor: 'magenta',
+        backgroundColor: '#4b0082',
         padding: 20,
-        width: "90%",
-        margin: 20,
-        borderRadius: 10,
+        marginTop: 30,
+        width: "100%",
+        // borderRadius: 10,
         overflow: 'hidden',
         display: 'flex',
         position: "relative",
